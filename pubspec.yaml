@@ -1,7 +1,14 @@
 name: screen_brightness_monitor
 description: "A new Flutter FFI plugin project."
 version: 1.0.0
-homepage:
+homepage: https://github.com/orestesgaolin/screen_brightness_monitor
+issue_tracker: https://github.com/orestesgaolin/screen_brightness_monitor/issues
+topics:
+  - screen
+  - brightness
+  - jnigen
+  - swiftgen
+  - ffi
 
 environment:
   sdk: ^3.11.0
