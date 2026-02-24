@@ -12,7 +12,7 @@ Uses swiftgen and jnigen to generate native bindings.
 
 | Android               | iOS               |
 | --------------------- | ----------------- |
-| ![](docs/android.gif) | ![](docs/ios.gif) |
+| ![](https://github.com/orestesgaolin/screen_brightness_monitor/raw/main/docs/android.gif) | ![](https://github.com/orestesgaolin/screen_brightness_monitor/raw/main/docs/ios.gif) |
 
 ## Usage
 
