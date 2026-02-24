@@ -1,0 +1,28 @@
+name: screen_brightness_monitor_example
+description: "Demonstrates how to use the screen_brightness_monitor plugin."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  screen_brightness_monitor:
+    path: ../
+
+  cupertino_icons: ^1.0.8
+  jni: ^0.15.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
