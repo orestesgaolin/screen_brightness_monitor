@@ -1,5 +1,5 @@
 name: screen_brightness_monitor
-description: "A new Flutter FFI plugin project."
+description: "A Flutter plugin to monitor screen brightness changes on Android and iOS using JNI and FFI."
 version: 1.0.0
 homepage: https://github.com/orestesgaolin/screen_brightness_monitor
 issue_tracker: https://github.com/orestesgaolin/screen_brightness_monitor/issues
