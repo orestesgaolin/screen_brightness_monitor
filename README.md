@@ -44,14 +44,14 @@ monitor.dispose();
 
 ## Regenerate bindings
 
-# Android (jnigen) — build first, then generate:
+**Android (jnigen) — build first, then generate:**
 
 ```
 cd example && flutter build apk --release && cd ..
 dart run tool/jnigen.dart
 ```
 
-# iOS (swiftgen):
+**iOS (swiftgen):**
 
 ```
 dart run tool/swiftgen.dart
