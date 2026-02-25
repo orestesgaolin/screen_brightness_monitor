@@ -55,5 +55,5 @@ Future<void> main() async {
         ),
       ),
     ),
-  ).generate(logger: logger);
+  ).generate(logger: logger, tempDirectory: Uri.directory('temp'));
 }

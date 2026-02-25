@@ -1,7 +1,7 @@
 #include <stdint.h>
 #import <Foundation/Foundation.h>
 #import <objc/message.h>
-#import "../../../../../../../var/folders/0z/mf0vglds7p15vrn22nlx68d80000gn/T/2THnbj/screen_brightness_monitor.h"
+#import "../../temp/screen_brightness_monitor.h"
 
 #if !__has_feature(objc_arc)
 #error "This file must be compiled with ARC enabled"
